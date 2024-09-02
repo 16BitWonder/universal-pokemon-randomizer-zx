@@ -2339,7 +2339,7 @@ public class NewRandomizerGUI {
         tpSwapMegaEvosCheckBox.setEnabled(false);
         tpSwapMegaEvosCheckBox.setSelected(false);
         tpDoubleBattleModeCheckBox.setVisible(true);
-        tpDoubleBattleModeCheckBox.setEnabled(false);
+        tpDoubleBattleModeCheckBox.setEnabled(true);
         tpDoubleBattleModeCheckBox.setSelected(false);
         tpBossTrainersCheckBox.setVisible(true);
         tpBossTrainersCheckBox.setEnabled(false);
@@ -3334,7 +3334,7 @@ public class NewRandomizerGUI {
             tpSwapMegaEvosCheckBox.setSelected(false);
             tpRandomShinyTrainerPokemonCheckBox.setEnabled(false);
             tpRandomShinyTrainerPokemonCheckBox.setSelected(false);
-            tpDoubleBattleModeCheckBox.setEnabled(false);
+            tpDoubleBattleModeCheckBox.setEnabled(true);
             tpDoubleBattleModeCheckBox.setSelected(false);
             tpBossTrainersCheckBox.setEnabled(false);
             tpBossTrainersCheckBox.setSelected(false);
